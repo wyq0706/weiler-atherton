@@ -29,3 +29,6 @@
 6. 重复1-5绘制第二个多边形，默认为裁剪多边形。
 
 7. 点击“裁剪”，即可得到裁剪结果。
+
+![image](https://github.com/wyq0706/weiler-atherton/blob/main/images/735bc19ff3a5fffbc5caf70a5946526.png)
+![image](https://github.com/wyq0706/weiler-atherton/blob/main/images/28d7fed25ec8034c60ba492db239a2b.png)
