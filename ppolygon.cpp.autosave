@@ -1,0 +1,11 @@
+#include "ppolygon.h"
+
+Polygon::Polygon()
+{
+
+}
+
+void Polygon::addPoint(QPointF p)
+{
+    this->points.push_back(p);
+}
